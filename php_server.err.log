@@ -1,0 +1,7 @@
+[Tue Oct 27 18:08:33 2026] PHP 8.4.27 Development Server (http://127.0.0.1:8000) started
+[Tue Oct 27 18:08:49 2026] 127.0.0.1:57718 Accepted
+[Tue Oct 27 18:08:49 2026] 127.0.0.1:57718 [200]: GET /
+[Tue Oct 27 18:08:49 2026] 127.0.0.1:57718 Closing
+[Tue Oct 27 18:08:59 2026] 127.0.0.1:57724 Accepted
+[Tue Oct 27 18:08:59 2026] 127.0.0.1:57724 [200]: GET /login.php
+[Tue Oct 27 18:08:59 2026] 127.0.0.1:57724 Closing
